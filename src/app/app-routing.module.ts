@@ -13,7 +13,7 @@ const routes: Routes = [
     component: DetailsComponent
   },
   {
-    path: 'post',
+    path: 'posts',
     component: PostsComponent
   },
 ];
